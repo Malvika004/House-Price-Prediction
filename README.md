@@ -1,10 +1,8 @@
 # CALIFORNIA-HOUSE-PRICE-PREDICTION
-
 -----
 The aim of this project is to predict the prices of the houses in California based on a dataset from sklearn using Machine Learning.
 
-Libraries used:-
-
+# Libraries used:-
 -----
 - **Numpy**
 
@@ -72,8 +70,7 @@ Matplotlib.pyplot is a collection of functions that make matplotlib work like MA
 
 Seaborn is a library for making statistical graphics in Python. It builds on top of matplotlib and integrates closely with pandas data structures.It helps you explore and understand your data. Its plotting functions operate on dataframes and arrays containing whole datasets and internally perform the necessary semantic mapping and statistical aggregation to produce informative plots.
 
-Algorithm Used:-
-
+# Algorithm Used:-
 -----
 - **XG Boost Regressor**
 
@@ -92,8 +89,7 @@ XGBoost is a powerful approach for building supervised regression models. XGBoos
 
 
 
-Dataset Used:-
-
+# Dataset Used:-
 -----
 - **fetch\_california\_housing()**
 
@@ -103,8 +99,7 @@ This dataset consists of 20,640 samples and 9 features.
 
 ![](Aspose.Words.29c59542-abd5-49dd-9c3a-ff87baef20f9.013.png)
 
-Data Analysis:-
-
+# Data Analysis:-
 -----
 - Heat Map based on correlation between various features
 
@@ -114,8 +109,7 @@ Dark Blue boxes- represents Positive Correlation
 
 ![](Aspose.Words.29c59542-abd5-49dd-9c3a-ff87baef20f9.014.png)
 
-Model Analysis:-
-
+# Model Analysis:-
 -----
 - Based on training data
 
@@ -129,7 +123,6 @@ Model Analysis:-
 
 ![](Aspose.Words.29c59542-abd5-49dd-9c3a-ff87baef20f9.018.png)
 
-A home-grown success!
-
+# A home-grown success!
 -----
 ![](Aspose.Words.29c59542-abd5-49dd-9c3a-ff87baef20f9.019.png)
