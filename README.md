@@ -1,4 +1,4 @@
-California\_House\_Price\_Prediction
+# CALIFORNIA-HOUSE-PRICE-PREDICTION
 
 -----
 The aim of this project is to predict the prices of the houses in California based on a dataset from sklearn using Machine Learning.
